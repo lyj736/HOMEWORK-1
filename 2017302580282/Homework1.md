@@ -1,0 +1,11 @@
+##### ping
+
+这里通过命令行窗口进行ping -n 10 www.baidu.com的DOS命令来检测与百度的之间网络是否连通。
+
+![ping](img\ping.png)
+
+##### tracert
+
+这里通过命令行窗口进行tracert www.baidu.com的DOS命令来确定本机到百度服务器的路由。
+
+![tracert](img\tracert.png)
