@@ -1,11 +1,13 @@
-网络及分布式计算作业1
+# 网络及分布式计算作业1
 
-ping bilibili.com
+## ping bilibili.com
 
 ![avatar](./ping.png)
 
-tracert qq.com 
+## tracert qq.com 
 
 ![avatar](./tracert.png)
+
+## 作者
 
 软五 2017301610194 马如云
